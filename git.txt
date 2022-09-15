@@ -1,0 +1,6 @@
+- instalar git 
+- crear cuenta en github
+- crear carpeta donde van a programar el integrador, crear archivo index.html 
+- terminal -> new terminal 
+- git init  // inicializa el proyecto en git 
+- git add . //agrega todos los archivos nuevos al área de preparación
